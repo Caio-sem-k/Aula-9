@@ -1,0 +1,5 @@
+$("#btlogin").click(
+    function(){
+        console.log("Esta mensagem de log.");
+    }
+)
